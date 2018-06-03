@@ -2,6 +2,8 @@
 
 Paper for the creation GOW2X's DAO
 
+We want to help #XangingtheWorld and BlockChain can help us
+
 We are making the paper for GOW2X DAO open for everybody to be able to contribute with their ideas
 
 Suit free to make sujestions
