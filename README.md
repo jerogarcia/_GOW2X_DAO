@@ -11,5 +11,6 @@ Suit free to make sujestions
 Our interest is not only creating a DAO for our own, but open the initiative for other to be able to take ideas
 
 contact project leader @jero_net on Telegram
+if you want to join newsfeed @jero_net_clan
 
 Thanks
