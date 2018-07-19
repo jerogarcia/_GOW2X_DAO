@@ -2,6 +2,8 @@
 
 We are about to close contributions to the DAO Paper. July 25th Deadline for your contributions to have part of 3% tokens of GOW2X DAO
 
+More info see the Wiki
+
 Smart Contract DAO will be launch on September 18 and once deployed, tokens will start to be distributed based on the GOWEX Shareholders filling the form on GOW2X.com 
 
 Thanks everyone for your contributions
