@@ -1,5 +1,7 @@
 # _GOW2X_DAO
 
+20180829 last version of the GOW2X DAO WP v 1.1 you can download here
+
 20180807 After several versions we closed the V1.00 of the WP for the review of the community. 
 Hoy publicamos la versión 1.00 del documento de la DAO para la revisión de toda la comunidad.
 Gracias a todos los que colaboráis en el proyecto. 
