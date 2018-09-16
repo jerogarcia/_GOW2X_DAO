@@ -1,5 +1,7 @@
 # _GOW2X_DAO
 
+20180917 last version of the GOW2X DAO WP v 1.20 you can download here https://drive.google.com/file/d/1gpLSxVcFKncFOHEiFvbKq6nh0WIfPpUy/view?usp=sharing
+
 20180829 last version of the GOW2X DAO WP v 1.1 you can download here https://drive.google.com/open?id=1G4eXlKS4UUf-ANKfazt6J-Hp-J4_0uD5
 
 20180807 After several versions we closed the V1.00 of the WP for the review of the community. 
